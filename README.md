@@ -3,7 +3,7 @@
 An AI-powered web app that generates high-converting landing page content from a simple idea.
 
 🔗 **Live Demo:**  
-(https://vercel.com/ova-assignment-aidev-aparnas-projects/ai-landing-builder)
+(https://ai-landing-builder-mu.vercel.app/)
 
 ---
 
@@ -27,15 +27,7 @@ An AI-powered web app that generates high-converting landing page content from a
 
 ---
 
-## 📸 Screenshots
 
-### 🔹 Input + Generate
-(Add screenshot here)
-
-### 🔹 Generated Output
-(Add screenshot here)
-
----
 
 ## 🚀 How It Works
 
@@ -61,7 +53,9 @@ An AI-powered web app that generates high-converting landing page content from a
 **Aparna Mula**
 
 - GitHub: https://github.com/Ova-assignment-AIDEV-APARNA
-- vercel:https://vercel.com/ova-assignment-aidev-aparnas-projects/ai-landing-builder
+- LinkedIn: www.linkedin.com/in/
+mula-aparna-b0a1b9287
+
 
 ---
 
